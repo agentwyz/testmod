@@ -1,7 +1,8 @@
 package main
 
-import "github.com/dreamerjackson/mydiv"
+import "github.com/agentwyz/testmod/lib"
 
 func main() {
 	//直接使用go mod tidy进行导入
+	lib.Hello("wyz")
 }
