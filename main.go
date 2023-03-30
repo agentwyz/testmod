@@ -20,8 +20,7 @@ func test() {
 func ddd() {
 	fmt.Println("test dddd")
 }
-	fmt.Println("test this user brach")
-}
+
 
 //测试分支冲突
 func test01() {
@@ -32,5 +31,3 @@ func test01() {
 func test02() {
 	fmt.Println("test this branch02")
 }
-
-
