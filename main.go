@@ -17,3 +17,8 @@ func main() {
 func test() {
 	fmt.Println("test this brach")
 }
+
+//看看是否冲突
+func ddd() {
+	fmt.Println("test dddd")
+}
