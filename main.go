@@ -13,7 +13,6 @@ func main() {
 
 //测试分支
 func test() {
-<<<<<<< HEAD
 	fmt.Println("test this brach")
 }
 
@@ -21,7 +20,6 @@ func test() {
 func ddd() {
 	fmt.Println("test dddd")
 }
-=======
 	fmt.Println("test this user brach")
 }
 
@@ -29,4 +27,3 @@ func ddd() {
 func test01() {
 	fmt.Println("test this brach01")
 }
->>>>>>> user
