@@ -27,3 +27,10 @@ func ddd() {
 func test01() {
 	fmt.Println("test this brach01")
 }
+
+//再次修改
+func test02() {
+	fmt.Println("test this branch02")
+}
+
+
