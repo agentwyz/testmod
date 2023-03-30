@@ -1,11 +1,9 @@
 package main
 
 import (
-	"github.com/agentwyz/testmod/lib"
 	"fmt"
+	"github.com/agentwyz/testmod/lib"
 )
-
-
 
 func main() {
 	//直接使用go mod tidy进行导入
@@ -15,6 +13,7 @@ func main() {
 
 //测试分支
 func test() {
+<<<<<<< HEAD
 	fmt.Println("test this brach")
 }
 
@@ -22,3 +21,12 @@ func test() {
 func ddd() {
 	fmt.Println("test dddd")
 }
+=======
+	fmt.Println("test this user brach")
+}
+
+//测试分支冲突
+func test01() {
+	fmt.Println("test this brach01")
+}
+>>>>>>> user
